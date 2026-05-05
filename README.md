@@ -27,7 +27,7 @@ file management, service management, system monitoring, and log analysis.
 ## Usage
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/system-admin-tool.git
+git clone https://github.com/Sandra-dev-20/system-admin-tool.git
 cd system-admin-tool
 
 ### 2. Make the script executable
