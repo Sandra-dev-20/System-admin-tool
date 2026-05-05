@@ -60,5 +60,5 @@ Sample output:
 
 ## Author
 
-Sandie — DevOps Engineering Student, TS Academy
-GitHub: https://github.com/yourusername
+Sandie — DevOps Engineering Student @TS Academy
+GitHub: https://github.com/Sandra-dev-20
